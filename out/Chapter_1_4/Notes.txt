@@ -1,0 +1,3 @@
+ - Difference between order of growth and tilde approximation: 
+	tilde approximation  = includes a coefficient in front of the order of growth 
+	order of growth = largest degree value

@@ -1,0 +1,7 @@
+what, 72
+Random, 3202
+phrase, 91
+idiom, 651
+fluke, 290
+bird, 909
+phrase, 190

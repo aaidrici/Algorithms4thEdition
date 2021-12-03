@@ -1,0 +1,10 @@
+I like this source
+[https://www.java2novice.com/java_interview_questions/class-private-modifier/]
+
+interesting notes:
+  1. The Java project will not run unless there is a "String args[]" in the prototype of the main function...
+  2. There is no limit on the number of class per java file, however there can only be one private class
+  3. Function overloading is the process of defining multiple functions with the same name but different argument number/type
+  4. A static method can be called provided you know the the name of its class (e.g. ClassName.MethodName() ). An instance method need to be a called from an object that is instanciated (e.g. objectName.Method())
+
+A java program can either be a library of static methods or a data-type definition 
